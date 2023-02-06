@@ -6,7 +6,7 @@ Time 15:05
 
 ### Project Title
 Post your Work on GitHub
-
+Author: Jose Miguel Rubio Calin
 
 ### Description
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2
