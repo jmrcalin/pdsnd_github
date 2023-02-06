@@ -2,12 +2,15 @@
 
 ### Date created
 February.06 2023
+Time 15:05
 
 ### Project Title
 Post your Work on GitHub
 
+
 ### Description
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2
+
 
 ### Files used
 The following file contains necessary commands used to do tasks and helps to understand the Git key terms:
